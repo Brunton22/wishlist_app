@@ -1,0 +1,25 @@
+.game-info {
+    padding-top: 20px;
+}
+
+.game-img-container, .game-info-container {
+    text-align: center;
+}
+
+.game_info_btn {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border-width: 0 0 1px 0;
+    border-style: dashed;
+    border-color: black;
+    border-radius: 0px;
+    transition: background-color 0.5s ease;
+
+    &:hover {
+        background-color: #f3f3f3;
+    }
+}
+
+.main-navbar a {
+    padding: 10px 10px 10px 10px;
+}
